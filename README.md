@@ -18,7 +18,7 @@ $ rspec questions_spec.rb
 **Quick tip**: to run a single example, change `it` to `fit` on that example, then run
 
 ~~~
-$ rspec questions_spec.rb --tag focus
+$ rspec spec/questions_spec.rb --tag focus
 ~~~
 
 Also, don't spend the whole weekend on this. Try and do the bulk of them today, revisit it a bit this weekend if you want. Spend the weekend consolodating the stuff we've covered on JS and Node.js, and carrying on with your Node.js apps :smile:
